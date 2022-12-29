@@ -1,0 +1,17 @@
+{
+  "name": "nlib-shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "har-schema": "^2.0.0"
+  },
+  "devDependencies": {
+    "quicktype": "^15.1.0"
+  }
+}
